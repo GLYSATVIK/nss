@@ -1,0 +1,13 @@
+"-- Initial setup" 
+"-- DB Schema created" 
+"-- Backend routes added" 
+"-- HTML pages done" 
+"-- Connected frontend and backend" 
+"-- Login feature" 
+-- Backend routes implemented
+-- HTML pages created
+-- Connected frontend to backend
+-- Login feature done
+-- Fixed DB connection
+-- UI styling improved
+-- Error handling done
